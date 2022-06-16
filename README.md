@@ -25,4 +25,3 @@ This project aims at converting mp4 videos to ascii videos. Ascii videos means v
 
 # Internal Working
 The following steps take place from when a video is input to when the output is obtained:
--> 
