@@ -23,3 +23,6 @@ This project aims at converting mp4 videos to ascii videos. Ascii videos means v
 
 8.The terminal will show 'Video converted successfully!!!' message, you can now have the output.
 
+# Internal Working
+The following steps take place from when a video is input to when the output is obtained:
+-> 
