@@ -5,10 +5,15 @@ This project aims at converting mp4 videos to ascii videos. Ascii videos means v
 1.Fork this repository, then clone it. 
 
 2.Install the dependencies by using the following commands,
+
         pip install opencv-python
+
         pip install numpy
+        
         pip install natsort
+        
         pip install os
+        
         pip install pillow
         
 3.Delete the contents of the images folder and the video1.avi file. 
