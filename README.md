@@ -16,7 +16,7 @@ This project aims at converting mp4 videos to ascii videos. Ascii videos means v
 
 4. Put the video you want to asciify as 'video.mp4'.
 
-5. Open terminal locate the directory where you have stored the downloaded code and run
+5. Open terminal and locate the directory where you have stored the downloaded code and run,
       
         python videotoascii.py
 
