@@ -55,5 +55,5 @@ https://user-images.githubusercontent.com/89119829/174067883-33b3d32d-00fb-465d-
         * https://www.geeksforgeeks.org/
         
 # Possible improvements
-        * Optimising th algorithm for faster performance.
+        * Optimising the algorithm for faster performance.
         * Reducing the memory required for each frame.
